@@ -1,1 +1,6 @@
 style.css
+body {background: grey;
+	border: 2px solid purple;
+
+}
+h1, p {color: black;}
